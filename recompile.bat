@@ -7,3 +7,4 @@ javac *.java
 cd ..
 )
 echo Fertig!
+call generate-launchers.bat
